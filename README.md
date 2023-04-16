@@ -15,5 +15,5 @@ sumo (Simulation of Urban Mobility)：一個開放源碼的交通模擬器，用
 ## References
 - yolov4.weights https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights
 - yolov4_dnn https://gist.github.com/YashasSamaga/e2b19a6807a13046e399f4bc3cca3a49
-- yolov4-deepsort https://github.com/nwojke/deep_sort
+- yolov4-deepsort https://github.com/theAIGuysCode/yolov4-deepsort.git
 - SUMO traffic https://www.eclipse.org/sumo/
