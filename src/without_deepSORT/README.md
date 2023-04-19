@@ -4,7 +4,7 @@
 This program is designed to analyze traffic impact in a given video file. The input video file must be named "demo.mp4". It will process the video and save the output as "output.mp4". Additionally, the program will generate a text file named "PCU_fps.txt", which represents the traffic impact for each frame of the processed video.
 
 ## Download YOLOv4 Weight
-- [yolov4.weights](https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights
+- [yolov4.weights](https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights)
 
 ## Usage
 
