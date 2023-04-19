@@ -20,7 +20,7 @@ This program requires the following dependencies to be installed:
 - OpenCV
 - NumPy
 
-## Get start
+## Get Started
 To run the program, execute the "yolov4.py" file in Python 3.
 ```bash
   python yolov4.py
