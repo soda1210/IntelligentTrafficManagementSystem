@@ -9,14 +9,14 @@
 ```
 
 ## Download YOLOv4 Weight
-- yolov4.weights https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights
+- [yolov4.weights](https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights)
 
-## Get Start
+## Get Started
 ```bash
   python save_model.py --modal yolov4
   python object_tracker.py --video <your path> --output ./outputs/demo.avi --model yolov4
 ```
 
 ## References  
-- yolov4.weights https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights
-- yolov4-deepSORT https://github.com/theAIGuysCode/yolov4-deepsort.git
+- [yolov4.weights](https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights)
+- [yolov4-deepSORT](https://github.com/theAIGuysCode/yolov4-deepsort.git)
