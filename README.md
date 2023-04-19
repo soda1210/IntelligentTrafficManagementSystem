@@ -10,10 +10,10 @@
 ## Technologies
 YOLOv4：進行即時車流辨識的物件辨識技術。<br>
 deepSORT 算法：一種在多目標追踪中廣泛使用的算法，用於追踪辨識出的車輛。<br>
-sumo (Simulation of Urban Mobility)：一個開放源碼的交通模擬器，用於模擬不同號誌週期圖表下的交通狀況。
+SUMO (Simulation of Urban Mobility)：一個開放源碼的交通模擬器，用於模擬不同號誌週期圖表下的交通狀況。
 
 ## References
-- yolov4.weights https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights
-- yolov4_dnn https://gist.github.com/YashasSamaga/e2b19a6807a13046e399f4bc3cca3a49
-- yolov4-deepsort https://github.com/theAIGuysCode/yolov4-deepsort.git
-- SUMO traffic https://www.eclipse.org/sumo/
+- [yolov4.weights](https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights)
+- [yolov4_dnn](https://gist.github.com/YashasSamaga/e2b19a6807a13046e399f4bc3cca3a49)
+- [yolov4-deepsort](https://github.com/theAIGuysCode/yolov4-deepsort.git)
+- [SUMO traffic](https://www.eclipse.org/sumo/)
