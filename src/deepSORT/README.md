@@ -1,6 +1,6 @@
 # YOLOv4-deepSORT
 
-## Environments
+## Environment Setup
 ```bash
   conda env create -f conda-cpu.yml
   conda activate yolov4-gpu
