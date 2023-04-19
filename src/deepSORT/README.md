@@ -1,7 +1,7 @@
 # YOLOv4-deepSORT
 
 ## Environments
-```
+```bash
   conda env create -f conda-cpu.yml
   conda activate yolov4-gpu
   
@@ -12,11 +12,11 @@
 - yolov4.weights https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights
 
 ## Get Start
-```
-python save_model.py --modal yolov4
-python object_tracker.py --video ./data/video/test.mp4 --output ./outputs/demo.avi --model yolov4
+```bash
+  python save_model.py --modal yolov4
+  python object_tracker.py --video <your path> --output ./outputs/demo.avi --model yolov4
 ```
 
-### References  
+## References  
 - yolov4.weights https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights
 - yolov4-deepSORT https://github.com/theAIGuysCode/yolov4-deepsort.git

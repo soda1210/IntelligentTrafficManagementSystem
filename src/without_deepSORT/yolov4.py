@@ -9,7 +9,7 @@ CONFIDENCE_THRESHOLD = 0.2
 NMS_THRESHOLD = 0.4
 COLORS = [(0, 255, 255), (255, 255, 0), (0, 255, 0), (255, 0, 0)]
 
-save_path = './416PCU.txt'
+save_path = './PCU_fps.txt'
 
 # 左轉道區域  左上[y,x] 左下 右下 右上
 left_lane = np.array([[950, 530], [850, 1000], [1150, 1000], [1100, 530]], np.int32)
