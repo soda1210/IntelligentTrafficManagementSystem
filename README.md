@@ -1,6 +1,6 @@
 # IntelligentTrafficManagementSystem
 
-An adaptive traffic signal control mechanism based on YOLOv4 object recognition technology to reduce traffic congestion. The project aims to generate real-time traffic flow by comparing two methods, the first one using deepSORT algorithm and the other one is our propose algorithm by real-time traffic flow recognition. In addition, the traffic flow is simulated using SUMO (Simulation of Urban Mobility) to change the traffic signals by both methods. Finally, we compare the effects of both methods on traffic flow and  recognition speed and the experimental results prove that our method is better than the another one.
+An adaptive traffic signal control mechanism based on YOLOv4 object recognition technology to reduce traffic congestion. The project aims to generate real-time traffic flow by comparing two methods, the first one using deepSORT algorithm and the other one is our propose algorithm by real-time traffic flow recognition. In addition, the traffic flow is simulated using SUMO (Simulation of Urban Mobility) to change the traffic signals by both methods. Finally, we compare the effects of both methods on  recognition speed and the experimental results prove that our method is firster than the another one.
 
 ## Features
 Using YOLOv4 Object Detection Technology: The project utilizes YOLOv4 object detection technology to provide accurate and efficient vehicle detection on the road, enabling precise traffic flow recognition.
